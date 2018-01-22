@@ -1,7 +1,7 @@
 # SDplots_VaccineUpdates
 This repository contains the SD plot results for the current influenza season to make a vaccine recommendation.
 
-The SD plots method was published as a preprint (http://www.biorxiv.org/content/early/2017/02/21/110528) and all data of the study as well as the software are [available here](https://github.com/hzi-bifo/SDplots). For details of the method, please refer to the manuscript. In short, the SD plots method works by calculating frequencies per season for each substitution that is found in a phylogenetic tree. We test for a significant increase in frequency from one season to the next. If a substitution is significant in one season and reaches more than 50% frequency, we mark this as a selective sweep - the season in which the substitution was identified is then marked with an asterisk and the name of the substitution is written to the top.
+The SD plots method was published in Scientific Reports (https://www.nature.com/articles/s41598-017-18791-z) and all data of the study as well as the software are [available here](https://github.com/hzi-bifo/SDplots). For details of the method, please refer to the manuscript. In short, the SD plots method works by calculating frequencies per season for each substitution that is found in a phylogenetic tree. We test for a significant increase in frequency from one season to the next. If a substitution is significant in one season and reaches more than 50% frequency, we mark this as a selective sweep - the season in which the substitution was identified is then marked with an asterisk and the name of the substitution is written to the top.
 
 Our results for the vaccine strain prediction are summarized in the table below.
 
