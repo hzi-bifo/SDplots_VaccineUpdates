@@ -8,6 +8,7 @@ Our results for the vaccine strain prediction are summarized in the table below.
 | Current season | Season recommended | Current H3N2 vaccine strain | Update recommended | Current pH1N1 vaccine strain | Update recommended | Detailed analysis |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 2017S | 2018S | A/Hong Kong/4801/2014 | No | A/Michigan/45/2015 | (No)\* | [link to results](https://github.com/hzi-bifo/SDplots_VaccineUpdates/tree/master/Recommendation%20in%202017S%20for%202018S) |
+| 2018N | 2019N | A/Singapore/INFIMH-16-0019/2016 | Yes | A/Michigan/45/2015 | (No)\* | [link to results](https://github.com/hzi-bifo/SDplots_VaccineUpdates/tree/master/Recommendation%20in%202018N%20for%202019N) |
 
 Information about current vaccine strains are obtained by [the WHO](http://www.who.int/influenza/vaccines/virus/recommendations/en/).
 ***
