@@ -5,10 +5,11 @@ We provide the recommendations with our method in parallel to the WHO, using a c
 
 ##  Current and prior forecasts
 
-| Current season | Season recommended | Date of recommendation | Current H3N2 vaccine strain | Update recommended | Current pH1N1 vaccine strain | Update recommended | Detailed analysis |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 2017S | 2018S | 19 September 2017 | A/Hong Kong/4801/2014 | No | A/Michigan/45/2015 | (No)\* | [link to results](https://github.com/hzi-bifo/SDplots_VaccineUpdates/tree/master/Recommendation%20in%202017S%20for%202018S) |
-| 2018N | 2019N | 22 February 2018 | A/Singapore/INFIMH-16-0019/2016 | Yes | A/Michigan/45/2015 | (No)\* | [link to results](https://github.com/hzi-bifo/SDplots_VaccineUpdates/tree/master/Recommendation%20in%202018N%20for%202019N) |
+| Current season | Season recommended | Date of recommendation | Recommended H3N2 vaccine strain | Recommended pH1N1 vaccine strain | Detailed analysis |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 2017N | 2018N | 02 March 2017 | A/Hong Kong/4801/2014 | A/Michigan/45/2015 | (No)\* | [link to results](https://github.com/hzi-bifo/SDplots_VaccineUpdates/tree/master/Recommendation%20in%202017S%20for%202018S) |
+| 2017S | 2018S | 19 September 2017 | A/Singapore/INFIMH-16-0019/2016 | A/Michigan/45/2015 | (No)\* | [link to results](https://github.com/hzi-bifo/SDplots_VaccineUpdates/tree/master/Recommendation%20in%202017S%20for%202018S) |
+| 2018N | 2019N | 22 February 2018 | A/Singapore/INFIMH-16-0019/2016 | A/Michigan/45/2015 | (No)\* | [link to results](https://github.com/hzi-bifo/SDplots_VaccineUpdates/tree/master/Recommendation%20in%202018N%20for%202019N) |
 
 Information about current vaccine strains is obtained from the [WHO](http://www.who.int/influenza/vaccines/virus/recommendations/en/).
 ***
