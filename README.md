@@ -3,13 +3,13 @@ Recommendations for vaccine strain updates and the influenza A H3N2 and pH1N1 st
 
 We provide the recommendations with our method in parallel to the WHO, using a computational approach.  In short, the SD plots method utilizes all available genetic sequences of the major surface protein of circulating influenza A viruses. From available sequences from the EpiFlu database, a genealogy is calculated for each subtype, and the changes in frequencies of amino acid changes associated with a particular clade are determined.  Changes increasing significantly in frequency among the sequenced isolates over consecutive seaons are considered as candidate changes providing a selective advantage. If these changes have reached a frequency of more than 50% in the current season and are located in antigenicity-altering regions of the surface protein,  an update of the vaccine strain with a strain from the particular clade is recommended. There is no consideration of antigenic or neutralization data from the current season, as this is not made (publicly) available by the WHO. Note that analysis of clade-associated amino acid change dynamics is different from counting frequencies of amino acid changes from the raw data. The latter approach cannot distinguish between homoeoplasies, i.e. amino acid changes introduced multiple times in parallel in the evolutionary history, and thus of the genetic context of changes, or consider changes that have later been reverted again.
 
-##  Current and prior forecasts
+##  Current and prior forecasts by the WHO
 
-| Current season | Season recommended | Date of recommendation | Recommended H3N2 vaccine strain | Recommended pH1N1 vaccine strain | Detailed analysis |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 2017N | 2018N | 02 March 2017 | A/Hong Kong/4801/2014 | A/Michigan/45/2015 | (No)\* | [link to results](https://github.com/hzi-bifo/SDplots_VaccineUpdates/tree/master/Recommendation%20in%202017S%20for%202018S) |
-| 2017S | 2018S | 19 September 2017 | A/Singapore/INFIMH-16-0019/2016 | A/Michigan/45/2015 | (No)\* | [link to results](https://github.com/hzi-bifo/SDplots_VaccineUpdates/tree/master/Recommendation%20in%202017S%20for%202018S) |
-| 2018N | 2019N | 22 February 2018 | A/Singapore/INFIMH-16-0019/2016 | A/Michigan/45/2015 | (No)\* | [link to results](https://github.com/hzi-bifo/SDplots_VaccineUpdates/tree/master/Recommendation%20in%202018N%20for%202019N) |
+| Current season | Season recommended | Date of recommendation | Recommended H3N2 vaccine strain | Recommended pH1N1 vaccine strain |
+|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 2017N | 2018N | 02 March 2017 | A/Hong Kong/4801/2014 | A/Michigan/45/2015 | 
+| 2017S | 2018S | 19 September 2017 | A/Singapore/INFIMH-16-0019/2016 | A/Michigan/45/2015 |
+| 2018N | 2019N | 22 February 2018 | A/Singapore/INFIMH-16-0019/2016 | A/Michigan/45/2015 | 
 
 Information about current vaccine strains is obtained from the [WHO](http://www.who.int/influenza/vaccines/virus/recommendations/en/).
 ***
