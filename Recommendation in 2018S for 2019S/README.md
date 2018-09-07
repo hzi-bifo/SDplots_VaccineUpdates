@@ -1,0 +1,5 @@
+This folder contains the results for the SD plots analysis in the season 2018S.
+
+HA sequences for the influenza subtypes H3N2 and pH1N1 were downloaded from GISAID on September 6, 2018, including all data from the beginning of the 2012S season (April 1st, 2012). Phylogenetic trees were generated and rooted with the strain that was predominant in the years before (A/Perth/16/2009 for H3N2 and A/California/05/2009 for pH1N1). SD plots were inferred and can be found [here](https://github.com/hzi-bifo/SDplots_VaccineUpdates/blob/master/Recommendation%20in%202018S%20for%202019S/H3N2_2018S.significant_positions.png) for H3N2 and [here](https://github.com/hzi-bifo/SDplots_VaccineUpdates/blob/master/Recommendation%20in%202018S%20for%202019S/pH1N1_2018S.significant_positions.png) for pH1N1.
+
+For the recommendation of a vaccine update, only substitutions identified in the current season (i.e. 2018S) are of relevance. For both H3N2 and pH1N1, no significant changes were identified in 2018S. For this reason, we don't recommend a vaccine update for season 2018S.
