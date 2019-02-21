@@ -5,4 +5,4 @@ Phylogenetic trees were generated and rooted with the strain that was predominan
 
 For the recommendation of a vaccine update, only substitutions identified in the current season (i.e. 2019N) are of relevance. For H3N2, we identified K92R, H311Q, N121K, R142G, E62G and Q261R as significant changes, of which only position 62 is a known antigenicity changing site ([details listed here](https://github.com/hzi-bifo/SDplots_VaccineUpdates/blob/master/Antigenicity%20or%20avidity%20changing%20sites.xlsx)). We therefore recommend a vaccine update for season 2020N to include a representative strain of the subclade that includes the changes K92R, H311Q, N121K, R142G, E62G and Q261R.
 
-In pH1N1, no significant changes were identified in 2019N. For this reason, we don't recommend a vaccine update for season 2020N.
+For pH1N1, no important changes were identified in 2019N. For this reason, we don't recommend a vaccine update for season 2020N.
