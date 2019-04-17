@@ -7,7 +7,6 @@ We provide the recommendations with our method in parallel to the WHO, using a c
 
 | Current season | Season recommended | Date of recommendation | Recommended H3N2 vaccine strain | Recommended pH1N1 vaccine strain |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-| 2017N | 2018N | 02 March 2017 | A/Hong Kong/4801/2014 | A/Michigan/45/2015 | 
 | 2017S | 2018S | 19 September 2017 | A/Singapore/INFIMH-16-0019/2016 | A/Michigan/45/2015 |
 | 2018N | 2019N | 22 February 2018 | A/Singapore/INFIMH-16-0019/2016 | A/Michigan/45/2015 | 
 | 2018S | 2019S | 27 September 2018 | A/Switzerland/8060/2017 | A/Michigan/45/2015 | 
