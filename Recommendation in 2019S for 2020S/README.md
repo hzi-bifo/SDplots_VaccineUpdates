@@ -1,1 +1,7 @@
 This folder contains the results for the SD plots analysis in the season 2019S.
+
+HA sequences for the influenza subtypes H3N2 and pH1N1 were downloaded from GISAID on September 5, 2019, including all data from the beginning of the 2015N season (October 1st, 2014). Phylogenetic trees were generated and rooted with a strain that was predominant previously (A/Fujian/411/2002 for H3N2 and A/California/07/2009 for pH1N1). SD plots were inferred and can be found [here for H3N2](https://github.com/hzi-bifo/SDplots_VaccineUpdates/blob/master/Recommendation%20in%202019S%20for%202020S/H3N2_2019S.significant_positions.png) and [here for pH1N1](https://github.com/hzi-bifo/SDplots_VaccineUpdates/blob/master/Recommendation%20in%202019S%20for%202020S/pH1N1_2019S.significant_positions.png).
+
+For the recommendation of a vaccine update, only substitutions identified in the current season (i.e. 2019S) are of relevance. For H3N2, no significant changes were identified in 2019S. For this reason, we don't recommend a vaccine update for season 2020S.
+
+For pH1N1, we identified S183P, N260D, N129D and T185I as significant changes. Position 183 (in pH1N1 numbering) corresponds to position 186 in H3N2 numbering, which was [previously detected to be in an antigenic patch](https://github.com/hzi-bifo/SDplots_VaccineUpdates/blob/master/Antigenicity%20or%20avidity%20changing%20sites.xlsx). We therefore recommend a vaccine update for season 2020S to include a representative strain of the subclade that includes the changes S183P, N260D, N129D and T185I.
