@@ -12,6 +12,7 @@ We provide the recommendations with our method in parallel to the WHO, using a c
 | 2018S | 2019S | 27 September 2018 | A/Switzerland/8060/2017 | A/Michigan/45/2015 | 
 | 2019N | 2020N | 21 February 2019 (updated on 21 March 2019) | A/Kansas/14/2017 | A/Brisbane/02/2018 | 
 | 2019S | 2020S | 27 September 2019 | A/South Australia/34/2019 | A/Brisbane/02/2018 | 
+| 2020N | 2021N | 28 February 2019 | A/Hong Kong/2671/2019 | A/Guangdong-Maonan/SWL1536/2019 (Egg-based vaccine) | 
 
 Information about current vaccine strains is obtained from the [WHO](http://www.who.int/influenza/vaccines/virus/recommendations/en/) and the [Francis Crick Institut](https://www.crick.ac.uk/research/worldwide-influenza-centre/annual-and-interim-reports/).
 ***
@@ -20,7 +21,7 @@ Information about current vaccine strains is obtained from the [WHO](http://www.
 
 
 ## Performance overview of SD-plot vaccine strain prediction 
-![slide3](https://user-images.githubusercontent.com/11456165/73667435-8baa5c00-46a4-11ea-8bdc-cb35f1e84d6f.png)
+![slide3](https://user-images.githubusercontent.com/11456165/78119306-82b9da80-7408-11ea-8e77-d9102f9cb6a5.png)
 
 Comparison of predominant antigenic types for human influenza A/H3N2, predictions using SD plots and recommendations made by the WHO. The selection of a vaccine strain takes place two seasons before the vaccine is available. Any prediction of newly arising antigenically novel strains should therefore be compared to the predominant antigenic type two seasons later (indicated by diagonal  lines in plot).  First row: colored boxes indicate the predominant antigenic variant and additional colored borders indicate different dominantly circulating strains matching the same antigenic variant. Second row: for the SD plots analysis, seasons are marked with an X, if sweep-related changes distinguish the respective vaccine strain from the previous one. Seasons with sweep-changes not associated with antigenicity-altering or avidity-changing sites are marked in grey. Third row: sweep-related changes in antigenicity or avidity changing sites. Using these as a criterion for vaccine strain updates, results in a simultaneous or earlier detection of newly emerging antigenic types than with the procedure utilized by the WHO. Fourth row: detected sweep-related sites neither known to change the avidity or the antigenicity. Fifth row: WHO recommendations. Until 2017N, performance was evaluated in retrospective testing, where data from after the time of the WHO vaccine strain meeting for a particular season was excluded from the analysis. From 2017S onwards, predictions were made for the future and can be monitored live at https://github.com/hzi-bifo/SDplots_VaccineUpdates (marked in Figure above).
 
